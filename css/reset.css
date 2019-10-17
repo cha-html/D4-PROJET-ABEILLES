@@ -1,0 +1,13 @@
+</section step step05>
+<h4>Video time!</h4>
+<video controls width="250">
+
+      <source src="medias/abeille.mov"
+              type="video/mov">
+
+
+        <source src="medias/abeillefourcamont.mp4"
+                      type="video/mp4">
+      Sorry, your browser doesn't support embedded videos.
+  </video>
+<section>

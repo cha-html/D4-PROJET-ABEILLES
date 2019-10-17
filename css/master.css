@@ -1,0 +1,38 @@
+header {
+  background: #ffd700;
+  padding: 6em;
+  min-height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  position: relative;
+}
+
+article {
+  background: #FFFFFF;
+  padding: 18em;
+  min-height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  position: relative;
+}
+
+
+header {
+  background: #ffd700;
+  padding: 6em;
+  min-height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+image {
+  padding-top: 15px;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  background-position: top;
+  background-repeat: repeat-x;
+}
